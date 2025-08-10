@@ -96,7 +96,7 @@ theme_mode: # [light | dark]
 cdn: "https://cdn.com​"
 
 # 侧边栏头像，支持本地或跨域资源
-avatar: "assets/images/avatar.png"
+avatar: "https://raw.githubusercontent.com/sherkent/sherkent.github.io/main/assets/images/avatar.png"
 
 # 网站全局社交预览图，用于 SEO 的 `og:image` 元标签。
 # 可以被页面 front matter 的 `page.image` 覆盖。
