@@ -1,7 +1,6 @@
 ---
 ​icon​: ​fas fa-info-circle
 ​order​: ​4
-title: 关于我
 ---
 
 这里是我的个人简介和博客介绍……
