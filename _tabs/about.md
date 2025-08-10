@@ -1,8 +1,12 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+title: 关于我
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+这里是我的个人简介和博客介绍……
+
+🌿 抑 趣 | 悠闲的碎片馆
+这里是我随手记录的兴趣小天地，也用来备份一些个人资料。内容不拘一格：数码、科技、AI、个人思考、个人动态，偶尔也有些杂乱的备忘。
+
+频道更新随缘，欢迎静静旁观，偶尔翻翻，偶尔遗忘。
+
+📬 如果有事找我，可使用任意社交媒体联系我
