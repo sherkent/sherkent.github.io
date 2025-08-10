@@ -6,7 +6,7 @@ theme: jekyll-theme-chirpy
 # 网页语言 › http://www.lingoes.net/en/translator/langcode.htm
 # 如果和 `_data/locales` 目录中的某个文件名相同，则布局语言也会跟着变，
 # 否则布局语言使用默认的 'en'。
-lang: en
+lang: zh-CN
 
 # 设置时区 › https://kevinnovak.github.io/Time-Zone-Picker
 timezone: Asia/Shanghai
@@ -22,19 +22,19 @@ description: >- # 用于 SEO 元标签和 Atom 订阅源的描述
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # 填写网站协议和域名，例如 'https://username.github.io'，注意不要以 '/' 结尾。
-url: ""
+url: "https://sherkent.github.io"
 
 github:
-  username: github_username # 改成你的 GitHub 用户名
+  username: sherkent # 改成你的 GitHub 用户名
 
 twitter:
-  username: twitter_username # 改成你的 Twitter 用户名
+  username: VeilCode # 改成你的 Twitter 用户名
 
 social:
   # 改成你的全名。
   # 它会作为文章默认作者和页脚版权人显示。
-  name: your_full_name
-  email: example@domain.com # 改成你的邮箱
+  name: VeilCode
+  email: veilcode@qq.com # 改成你的邮箱
   links:
     # 第一个元素作为版权链接
     - https://twitter.com/username # 改成你的 Twitter 主页
