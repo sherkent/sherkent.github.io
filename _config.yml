@@ -93,10 +93,10 @@ theme_mode: # [light | dark]
 # 都会自动添加 CDN 地址作为前缀
 #
 # 例如 'https://cdn.com'
-cdn: "https://sherkent.github.io/assets/images/avatar.jpg"
+​cdn​: ​"​https://​chirpy-img.netlify.app​"
 
 # 侧边栏头像，支持本地或跨域资源
-avatar: "/assets/images/avatar.png"
+avatar: "assets/images/avatar.png"
 
 # 网站全局社交预览图，用于 SEO 的 `og:image` 元标签。
 # 可以被页面 front matter 的 `page.image` 覆盖。
