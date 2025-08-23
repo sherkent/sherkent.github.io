@@ -29,7 +29,7 @@ description: >-
 
 # 填写你网站的协议和主机名。
 # 例如 'https://sherkent.github.io'，注意不要以 '/' 结尾。
-url: ""
+url: "https://sherkent.github.io"
 
 github:
   username: sherkent # 改为你的 GitHub 用户名
