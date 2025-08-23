@@ -9,7 +9,7 @@ theme: jekyll-theme-chirpy
 lang: zh-CN
 
 # 修改时区 › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: Asia/Shanghai
 
 # jekyll-seo-tag 设置 › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
