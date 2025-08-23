@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # 侧边栏的头像，支持本地或跨域（CORS）资源
-avatar:
+avatar:https://raw.githubusercontent.com/sherkent/sherkent.github.io/refs/heads/main/assets/images/avatar.png
 
 # 网站级社交分享预览图的 URL，用于 SEO 的 `og:image` 标签。
 # 可以在文章 Front Matter 中通过 `page.image` 覆盖。
