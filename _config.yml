@@ -6,7 +6,7 @@ theme: jekyll-theme-chirpy
 # 网页语言 › http://www.lingoes.net/en/translator/langcode.htm
 # 如果它的值和 `_data/locales` 文件夹中的文件名相同，则布局语言也会被切换，
 # 否则默认使用 'en'。
-lang: en
+lang: zh-CN
 
 # 修改时区 › https://kevinnovak.github.io/Time-Zone-Picker
 timezone:
@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag 设置 › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # 网站主标题
+title: VEIL'S BLOG # 网站主标题
 
-tagline: A text-focused Jekyll theme # 副标题
+tagline: 🌿 抑 趣 | 悠闲的碎片馆 # 副标题
 
 description: >- # 用于 SEO meta 和 Atom feed
   一个简约、响应式且功能丰富的 Jekyll 技术写作主题。
@@ -26,20 +26,20 @@ description: >- # 用于 SEO meta 和 Atom feed
 url: ""
 
 github:
-  username: github_username # 改为你的 GitHub 用户名
+  username: sherkent # 改为你的 GitHub 用户名
 
 twitter:
-  username: twitter_username # 改为你的 Twitter 用户名
+  username: VeilCode # 改为你的 Twitter 用户名
 
 social:
   # 修改为你的全名。
   # 它将作为文章默认作者和页脚的版权拥有者显示
-  name: your_full_name
-  email: example@domain.com # 改为你的邮箱
+  name: VeilCode
+  email: veilcode@qq.com # 改为你的邮箱
   links:
     # 第一个链接会作为版权拥有者的主页链接
-    - https://twitter.com/username # 改为你的 Twitter 主页
-    - https://github.com/username # 改为你的 GitHub 主页
+    - https://x.com/VeilCode?s=09 # 改为你的 Twitter 主页
+    - https://github.com/sherkent # 改为你的 GitHub 主页
     # 取消注释下面的内容可以添加更多社交链接
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
