@@ -22,7 +22,7 @@ description: >- # 用于 SEO meta 和 Atom feed
   一个简约、响应式且功能丰富的 Jekyll 技术写作主题。
 
 # 填写你网站的协议和主机名。
-# 例如 'https://username.github.io'，注意不要以 '/' 结尾。
+# 例如 'https://sherkent.github.io'，注意不要以 '/' 结尾。
 url: ""
 
 github:
