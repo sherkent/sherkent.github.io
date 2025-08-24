@@ -75,7 +75,7 @@ analytics:
     id: # 填写 Matomo ID
     domain: # 填写 Matomo 域名
   cloudflare:
-    id: # 填写 Cloudflare Web Analytics token
+    id: 1e17b052a1434cb4aa4e16d04c4a0156# 填写 Cloudflare Web Analytics token
   fathom:
     id: # 填写 Fathom Site ID
 
