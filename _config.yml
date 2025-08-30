@@ -107,7 +107,7 @@ cdn:
 avatar: "https://raw.githubusercontent.com/sherkent/sherkent.github.io/refs/heads/main/assets/images/avatar.png"
 
 # 网站图标（favicon）
-favicon: /assets/img/favicons/favicon.ico
+favicon: assets/img/favicons/favicon.ico
 
 # 网站级社交分享预览图的 URL，用于 SEO 的 `og:image` 标签。
 # 可以在文章 Front Matter 中通过 `page.image` 覆盖。
