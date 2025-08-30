@@ -3,10 +3,13 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# 关于我
+# 关于本站
 
-Hi 这里是VeilCode
-这是我的个人简介以及博客介绍
+Hi 这里是VeilCode的个人网站/博客
+以下是我的博客介绍
+
+我的自述
+[个人简介](https://sherkent.github.io/posts/自述)
 
 ---
 
