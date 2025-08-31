@@ -3,6 +3,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+![图画](/assets/images/2025-08-31_anime1_3K.png)
+
 # 关于本站
 
 Hi 这里是VeilCode的个人网站/博客
