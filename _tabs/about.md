@@ -3,7 +3,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-![图画](/assets/images/2025-08-31_anime1_3K.png)
+![二次元壁纸](https://t.alcy.cc/ycy)
+
+<!-- ![唯美风景壁纸](https://t.alcy.cc/fj) -->
 
 # 关于本站
 
