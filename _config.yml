@@ -31,7 +31,7 @@ description: >-
 html-proofer:
   allow_hash_href: true
   url_ignore:
-    - "http://vtools.omarea.com"
+    - "http://vtools.omarea.com/#/"
 
 # 填写你网站的协议和主机名。
 # 例如 'https://sherkent.github.io'，注意不要以 '/' 结尾。
