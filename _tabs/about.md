@@ -15,7 +15,10 @@ Hi 这里是VeilCode的个人网站/博客
 以下是我的博客介绍
 
 我的自述
-[个人简介](https://sherkent.github.io/posts/zi_shu)
+[关于我](https://sherkent.github.io/posts/zi_shu)
+
+我很喜欢的博客
+[Pzqqt's Blog](https://pzqqt.github.io)
 
 ---
 
