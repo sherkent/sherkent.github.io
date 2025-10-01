@@ -17,7 +17,7 @@ Hi 这里是VeilCode的个人网站/博客
 我的自述
 [关于我](https://sherkent.github.io/posts/zi_shu)
 
-我很喜欢的博客
+我感兴趣的博客
 [Pzqqt's Blog](https://pzqqt.github.io)
 
 ---
