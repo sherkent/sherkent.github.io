@@ -3,7 +3,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-![二次元壁纸](https://t.alcy.cc/ycy)
+<!-- ![二次元壁纸](https://t.alcy.cc/ycy) -->
 
 以上为随机二次元图片~
 
