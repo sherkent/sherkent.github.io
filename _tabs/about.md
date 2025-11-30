@@ -5,7 +5,6 @@ order: 4
 
 <!-- ![二次元壁纸](https://t.alcy.cc/ycy) -->
 
-以上为随机二次元图片~
 
 <!-- ![唯美风景壁纸](https://t.alcy.cc/fj) -->
 
