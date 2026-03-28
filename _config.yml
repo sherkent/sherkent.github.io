@@ -115,7 +115,7 @@ toc: true
 
 comments:
   # 全局评论系统开关。留空表示禁用。
-  active: disqus # [disqus | utterances | giscus]
+  provider: giscus # [disqus | utterances | giscus]
   # 各评论系统配置如下：
   disqus:
     shortname: # 填写 Disqus shortname › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
