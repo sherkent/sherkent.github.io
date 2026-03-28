@@ -52,7 +52,7 @@ social:
 
 # 网站验证设置
 webmaster_verifications:
-  google: # 填写 Google 验证码
+  google: "KhiGm2VgWR1Wu-E6oH4HpQZNIhVcOuKLTbq2J4Gi5U0"# 填写 Google 验证码
   bing: # 填写 Bing 验证码
   alexa: # 填写 Alexa 验证码
   yandex: # 填写 Yandex 验证码
